@@ -1,0 +1,29 @@
+<!DOCTTYPE html>
+<html>
+	<head>
+		<title> Primer pagina </title>
+	</head>
+	<body>
+		<h1> Esto ya está </h1>
+		<h2> Esto ya está </h2>
+		<h3> Esto ya está </h3>
+		<h4> Esto ya está </h4>
+		<h5> Esto ya está </h5>
+		<h6> Esto ya está </h6>
+		<p> asfhkdjagbkajdf iosdh iguasd</p>
+		
+		<ul>
+		<li>Esto es una lista NO Ordenada</li>
+		</ul>
+		
+		<br/>
+		<hr/>
+
+		<ol>
+		<li>Esto es una lista Ordenada</li>
+		</ol>
+		
+		<p><em>palabra resaltante</em>, sólo esa se resalta</p>
+		<p><strong>palabra resaltante</strong>, sólo esa se resalta</p>
+	</body>
+</html>
