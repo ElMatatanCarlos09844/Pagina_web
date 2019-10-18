@@ -1,0 +1,49 @@
+.synopsis{
+	color: #7E8184;
+	font-style: italic;
+}
+
+.button{
+	color: #FFF;
+	background-color: #5995DA;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px;
+	border: 2px solid #5D6063;
+	border-radius: 5px;
+	width: 200px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.call-to-action{
+	font-style: italic;
+	background-color:  #EEB75A;
+}
+
+.parrafo{
+	color: #CD5C5C;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: #1E7650;
+}
+a:link{
+	color:  blue;
+	text-decoration: none;
+}
+a:visited{
+	color: orange;
+}
+a:hover{
+	color: aqua;
+	text-decoration: underline;
+}
+a:active{
+	color: red;
+}
+.page{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #C4F9E2;
+}
