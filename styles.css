@@ -3,15 +3,22 @@
 	font-style: italic;
 }
 
+.cuadro{
+	background-color: #59F5DA;
+	padding: 7px
+}
+
+.cuadro2{
+	background-color: #FFAC33;
+}
+
 .button{
 	color: #FFF;
 	background-color: #5995DA;
 	font-weight: bold;
-	font-size: 20px;
-	padding: 10px;
 	border: 2px solid #5D6063;
-	border-radius: 5px;
-	width: 200px;
+	border-radius: 2px;
+	width: 150px;
 	margin: 20px auto;
 	text-align: center;
 }
@@ -24,9 +31,14 @@
 .parrafo{
 	color: #CD5C5C;
 }
-
+p{
+	text-align: justify;
+	margin-right: 20px;
+}
 h1,h2,h3,h4,h5,h6{
 	color: #1E7650;
+	text-align: center;
+	font-family: "Century Gothic";
 }
 a:link{
 	color:  blue;
@@ -43,7 +55,10 @@ a:active{
 	color: red;
 }
 .page{
+	font-family: "Miriam Fixed";
 	width: 600px;
 	margin: 0 auto;
 	background-color: #C4F9E2;
+
 }
+
